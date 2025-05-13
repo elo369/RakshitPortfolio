@@ -1,4 +1,4 @@
-import { IconBriefcase, IconBriefcaseFilled } from "@tabler/icons-react";
+import {  IconBriefcaseFilled } from "@tabler/icons-react";
 import React from "react";
 
 const Experience = () => {
